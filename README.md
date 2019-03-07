@@ -55,10 +55,7 @@ I used an HTTP server and its PHP extension.
 2) Note down the Raspberry Pi's IP adddress by using the command: hostname -I
 3) Test the Apache server by navigating to the browser and typing your Pi's IP address. You should see and "It works!" page.
 4) Go to "/var/www" directory in the Raspberry Pi and delete the "index.html" file. 
-5) Create a new "index.php" file and put the following code in it: 
-<?php
-phpinfo();
-?>
+5) Create a new "index.php" file and put the following code in it: phpinfo();
 6) Save it and refresh the page in your browser. A long page with lots of information about PHP will appear. Thus the PHP extension is installed properly.
 
 # Step 5: The Website
