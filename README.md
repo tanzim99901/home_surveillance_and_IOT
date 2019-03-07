@@ -66,4 +66,4 @@ phpinfo();
 All the codes for the website is contained in the "cam_home" folder.
 1) Copy the "cam_home" folder to the /var/www/html/" directory of the Raspberry Pi.
 2) Be sure to change the video source links in all the php files in the website according to your Raspberry Pi's IP address. (See step 4, number 19)
-3) Navigate to "http://<raspberry pi IP>/cam_home" to view the website from PC or mobile phone. (Optimized for mobile phones.)
+3) Navigate to "http://raspberry_pi_IP/cam_home" (e.g, http://192.168.101.69/cam_home) to view the website from PC or mobile phone. (Optimized for mobile phones.)
