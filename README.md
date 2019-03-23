@@ -1,4 +1,4 @@
-# Home Surveillance & IOT (Ongoing Project)
+# Home Surveillance & IOT (Ongoing)
 
 Live video feedback and electrical appliances control from anywhere in the world using a website, served from a Raspberry Pi server. (Electrical Appliance control tested using an LED)
 
